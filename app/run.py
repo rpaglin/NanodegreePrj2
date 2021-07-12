@@ -50,7 +50,6 @@ def category_distribution(df):
     """
     count=df['related'].count()
     cat_perc=list(df.iloc[:,4:].sum()/count)
-    cat_perc[0]=df[df['related']==1]['related'].count()/count  #category 'related' has a 3 values (0,1,2). We only count value '1'
     return cat_perc, count
 
 # load data
