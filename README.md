@@ -28,7 +28,7 @@ Folder 'app' include a py module for web visualization of results using flask. I
 
 ## Usage
 
-The code was developed and tested within udacity workspace. Web app also works in that workspcae. 
+The code was developed and tested within udacity workspace. Web app also works in that workspace. 
 Complete usage of the software consists of three steps. Procedure should be the following one:
 
 Step1 (ETL). In folder data: python process_data.py disaster_messages.csv disaster_categories.csv DisasterResponse.db 
@@ -37,20 +37,13 @@ Step2 (Classifier). In folder models: python train_classifier.py ../data/Disaste
 
 Step3 (Flask web app). In folder app: python run.py
 
+## Web app
+
+Web app basically consist in a message query space that allows categorization of a generic message:
 <img width="964" alt="java 8 and prio java 8  array review example" src="https://github.com/rpaglin/NanodegreePrj2/blob/main/pictures/dataset_cat.png">
-<img width="964" alt="java 8 and prio java 8  array review example" src="https://github.com/jaimehernan95/arrayReview-java/blob/master/images/%20arrayExample.png">
-# ArrayReview-java
+<img width="964" alt="java 8 and prio java 8  array review example" src="https://github.com/rpaglin/NanodegreePrj2/blob/main/pictures/dataset_cat.png">
+<img width="964" alt="java 8 and prio java 8  array review example" src="https://github.com/rpaglin/NanodegreePrj2/blob/main/pictures/dataset_cat.png">
 
- This an example of printing Array using java 8 and Prior Java 8
- 
-# Images in ReadFile
-
-
-
-# ArrayReverse example
-
-
-<img width="964" alt="jarray reverse exampl" src="https://github.com/jaimehernan95/arrayReview-java/blob/master/images/arrayReverse.png">
 ## Note
 
 The train_classifier module includes a boolean variable 'optimize', which (when True) triggers execution of gridsearch
