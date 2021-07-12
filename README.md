@@ -2,6 +2,10 @@
 # About The Project
 The project is intended as a training exercise and is related to machine learning classification of messages exchanged during an emergency 
 
+## Motivation
+
+The software explore machine learning methodologies usage in the context of communication management during disaster event 
+
 ## Prerequisites
 
 The software uses the following libraries: 
@@ -52,13 +56,9 @@ Finally, a "model performance" link in the menu allows to visualize main score i
 
 The train_classifier module includes a boolean variable 'optimize', which (when True) triggers execution of gridsearch
 
-## Note
+## Acknowledgement
 
-The train_classifier module includes a boolean variable 'optimize', which (when True) triggers execution of gridsearch
-
-## Note
-
-The train_classifier module includes a boolean variable 'optimize', which (when True) triggers execution of gridsearch
+The project is based on a data set of messages prepared and categorizied bu Figure Eight (https://www.figure-eight.com/)
 
 ## License
 
