@@ -52,8 +52,7 @@ def clean_data(df):
     
     # remove redundant strings from categories column
     for col in df.columns[4:]:
-        df[col]=df[col].apply(lambda x: int(str(x)[-1]))
-
+        df[col]=df[col].apply(lambda x: min(int(str(x)[-1]),1))
     # check and remove duplicate duplicates
     dp= df.duplicated().sum()
     if dp >0: 
