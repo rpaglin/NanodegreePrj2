@@ -37,8 +37,20 @@ Step2 (Classifier). In folder models: python train_classifier.py ../data/Disaste
 
 Step3 (Flask web app). In folder app: python run.py
 
-<img width=“964” alt=“java 8 and prio java 8  array review example” src=“https://github.com/rpaglin/NanodegreePrj2/blob/main/pictures/dataset_cat.png”>
+<img width="964" alt="java 8 and prio java 8  array review example" src="https://github.com/rpaglin/NanodegreePrj2/blob/main/pictures/dataset_cat.png">
+<img width="964" alt="java 8 and prio java 8  array review example" src="https://github.com/jaimehernan95/arrayReview-java/blob/master/images/%20arrayExample.png">
+# ArrayReview-java
 
+ This an example of printing Array using java 8 and Prior Java 8
+ 
+# Images in ReadFile
+
+
+
+# ArrayReverse example
+
+
+<img width="964" alt="jarray reverse exampl" src="https://github.com/jaimehernan95/arrayReview-java/blob/master/images/arrayReverse.png">
 ## Note
 
 The train_classifier module includes a boolean variable 'optimize', which (when True) triggers execution of gridsearch
