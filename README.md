@@ -40,9 +40,13 @@ Step3 (Flask web app). In folder app: python run.py
 ## Web app
 
 Web app basically consist in a message query space that allows categorization of a generic message:
-<img width="964" alt="java 8 and prio java 8  array review example" src="https://github.com/rpaglin/NanodegreePrj2/blob/main/pictures/dataset_cat.png">
-<img width="964" alt="java 8 and prio java 8  array review example" src="https://github.com/rpaglin/NanodegreePrj2/blob/main/pictures/dataset_cat.png">
-<img width="964" alt="java 8 and prio java 8  array review example" src="https://github.com/rpaglin/NanodegreePrj2/blob/main/pictures/dataset_cat.png">
+<img width="964" alt="Message query" src="https://github.com/rpaglin/NanodegreePrj2/blob/main/pictures/message_query.png">
+
+In addition to message categorization, it also provide in the main page dome sort of distribution of messages per category:
+<img width="964" alt="Category distributions" src="https://github.com/rpaglin/NanodegreePrj2/blob/main/pictures/dataset_cat.png">
+
+Finally, a "model performance" link in the menu allows to visualize main score indicators for machine learning model:
+<img width="964" alt="Model performance" src="https://github.com/rpaglin/NanodegreePrj2/blob/main/pictures/model_perf.png">
 
 ## Note
 
