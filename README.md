@@ -43,7 +43,7 @@ Step3 (Flask web app). In folder app: python run.py
 
 ## Web app
 
-Web app basically consist in a message query space that allows categorization of a generic message:
+Web app basically consist of a message query space that allows categorization of a generic message:
 <img width="964" alt="Message query" src="https://github.com/rpaglin/NanodegreePrj2/blob/main/pictures/message_query.png">
 
 In addition to message categorization, it also provide in the main page dome sort of distribution of messages per category:
