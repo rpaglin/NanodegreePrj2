@@ -28,7 +28,8 @@ Folder 'app' include a py module for web visualization of results using flask. I
 
 ## Usage
 
-The complete usage of the software consists of three steps. Procedure should be the following one:
+The code was developed and tested within udacity workspace. Web app also works in that workspcae. 
+Complete usage of the software consists of three steps. Procedure should be the following one:
 
 Step1 (ETL). In folder data: python process_data.py disaster_messages.csv disaster_categories.csv DisasterResponse.db 
 
