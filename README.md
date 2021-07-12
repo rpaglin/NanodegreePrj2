@@ -37,7 +37,7 @@ Step2 (Classifier). In folder models: python train_classifier.py ../data/Disaste
 
 Step3 (Flask web app). In folder app: python run.py
 
-https://github.com/rpaglin/NanodegreePrj2/blob/main/pictures/dataset_cat.png
+<img width=“964” alt=“java 8 and prio java 8  array review example” src=“https://github.com/rpaglin/NanodegreePrj2/blob/main/pictures/dataset_cat.png”>
 
 ## Note
 
