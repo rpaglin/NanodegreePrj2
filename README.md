@@ -37,6 +37,8 @@ Step2 (Classifier). In folder models: python train_classifier.py ../data/Disaste
 
 Step3 (Flask web app). In folder app: python run.py
 
+https://github.com/rpaglin/NanodegreePrj2/blob/main/pictures/dataset_cat.png
+
 ## Note
 
 The train_classifier module includes a boolean variable 'optimize', which (when True) triggers execution of gridsearch
