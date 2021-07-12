@@ -41,6 +41,14 @@ Step3 (Flask web app). In folder app: python run.py
 
 The train_classifier module includes a boolean variable 'optimize', which (when True) triggers execution of gridsearch
 
+## Note
+
+The train_classifier module includes a boolean variable 'optimize', which (when True) triggers execution of gridsearch
+
+## Note
+
+The train_classifier module includes a boolean variable 'optimize', which (when True) triggers execution of gridsearch
+
 ## License
 
 Free to use
